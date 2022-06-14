@@ -68,5 +68,7 @@ Documenta los siguientes pasos:
 
 16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  
 
+![img](img/Network.png)
+
 Enlace: https://github.com/iesgrancapitan-eed/practica4-git-resolviendo-un-conflicto-andresfp16
 
